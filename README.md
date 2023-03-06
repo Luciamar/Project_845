@@ -6,3 +6,5 @@ Project for class AGRON 845
 Lucia Marziotte
 
 Crop pictures and limit figures
+
+updated on march 6
